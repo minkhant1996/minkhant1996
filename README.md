@@ -8,8 +8,22 @@ Artificial Intelligence Developer
 
 ## Summary
 
-Experienced AI and Computer Vision Specialist with a Master's degree in Data Science and AI. Proficient in designing and implementing cutting-edge AI and computer vision solutions. Strong foundation in machine learning frameworks, deep learning, and image processing techniques.
+Innovative AI and Computer Vision Specialist with a strong academic foundation and extensive hands-on experience in designing and implementing advanced AI solutions. Proficient in Deep Learning, Computer Vision, and various programming languages. Skilled in developing applications that require intensive data processing and user interaction, with a focus on usability and efficiency.
 
+---
+
+---
+
+## Expertise and Services
+
+- 🔍 **Develop Comprehensive AI Solutions**: Specializing in the creation of bots and character chatbots to enhance digital interactions.
+- 🤖 **Lead Development Projects**: Utilizing cutting-edge technologies such as Stable Diffusion, LLM, and Semantic Search to drive project success.
+- 📊 **Advanced Analytics and Machine Learning**: Employing sophisticated analytics and machine learning frameworks to inform decision-making and create innovative user experiences.
+- 🛠️ **Robust Infrastructure Management**: Building and managing scalable, high-performance infrastructures using AWS and other cloud platforms.
+
+I am always interested in collaborating on projects that push the boundaries of AI and Machine Learning. Feel free to reach out for collaboration opportunities or just to connect. You can email me at [minkhant.ppn@gmail.com](mailto:minkhant.ppn@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/min-khant-soe-4b6aa1124).
+
+---
 ---
 
 ## Skills
@@ -77,6 +91,8 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira)](https://www.atlassian.com/software/jira)
 
 ---
+---
+
 ## Work Experience
 
 ### Artificial Intelligence Developer (Full-time), The Brooker Group PCL, Thailand
@@ -158,6 +174,7 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 - Developed a voice-controlled IoT smart home automation system.
 - Designed 3D models of products.
 
+---
 
 ---
 
@@ -173,9 +190,13 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 
 ---
 
+---
+
 ## Languages
 - English (Fluent)
 - Myanmar (Native)
+  
+---
 
 ---
 
