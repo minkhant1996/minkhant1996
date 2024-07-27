@@ -6,7 +6,7 @@ Artificial Intelligence Developer
 
 ---
 
-## <span style="color:#2c3e50">Summary</span>
+## <span style="color:#16a085">Summary</span>
 
 Innovative AI and Computer Vision Specialist with a strong academic foundation and extensive hands-on experience in designing and implementing advanced AI solutions. Proficient in Deep Learning, Computer Vision, and various programming languages. Skilled in developing applications that require intensive data processing and user interaction, with a focus on usability and efficiency.
 
