@@ -2,7 +2,7 @@
 
 Artificial Intelligence Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/min-khant-soe-4b6aa1124)
+<a href="https://www.linkedin.com/in/min-khant-soe-4b6aa1124" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
 
 ---
 
