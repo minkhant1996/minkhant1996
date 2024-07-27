@@ -79,18 +79,85 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 ---
 ## Work Experience
 
-### Artificial Intelligence Developer (Full-time), The Brooker Group PCL, Thailand July 2023 - Present
-- Develop a comprehensive bot integration platform.
-- Conduct LLM experiments and prompt tuning.
-- Manage project infrastructure on AWS for scalability.
+### Artificial Intelligence Developer (Full-time), The Brooker Group PCL, Thailand
+**July 2023 - Present**
 
-### Research Assistant (Part-time), AICenter, Asian Institute of Technology, Thailand May 2022 - Sep 2023
-- Conducted research and development on trench measurement systems.
-- Designed electronic circuit diagrams and enhanced 3D hardware design.
+#### BotStudio Project
+- Developed a comprehensive bot integration platform managing both frontend and backend functionalities, including UI, data processing, API integration, CRUD operations, authentication, and secure database design.
+- Conducted LLM experiments and prompt tuning to improve bot functionality and user interaction.
+- Implemented information retrieval from documents using text embedding models, LangChain, and semantic search.
+- Added LINE login and messaging features for user convenience.
+- Managed project infrastructure on AWS (EC2, S3, RDS, Route 53) for scalability.
 
-### Engineering Specialist (Part-time), KiddeeLab, Thailand Aug 2021 - June 2023
-- Supervised students and developed machine learning courses.
-- Developed a computer vision algorithm for servo motor angle control.
+#### Character Chatbots Development
+- Created AI character images using Stable Diffusion, developed their personalities, and integrated them as chatbots capable of interpreting both visual and text inputs using LLM.
+- Conducted LLM experiments and prompt tuning to enhance chatbot functionality.
+- Implemented named-entity recognition and information retrieval from documents using LLM, text embedding models, LangChain, and semantic search.
+- Developed a feature to optimize the timing for advertising the Brookreator website features to users during conversations, integrating it into the chatbot.
+- Developed language input filtering and user intention detection features using NLP techniques and LLM.
+- Managed project infrastructure on AWS (EC2, S3, Route 53) for scalability.
+
+#### Collaboration with Brookreator Team
+- Designed and implemented classic QR code generation features for streamlined user access.
+- Enhanced image quality and focus through the implementation of auto portrait cropping and face restoration using CodeFormer.
+- Developed a LINE chatbot enabling users to generate images and videos directly from the Brookreator website.
+- Contributed innovative AI product ideas and provided system design recommendations for AI projects.
+
+#### Other Research and Development
+- Conducted research to select the best LLM for system integration.
+- Prepared datasets for LLM fine-tuning and fine-tuned custom LLMs from Hugging Face, such as LLaMA-2 and Qwen, for specific tasks.
+- Experimented with voice cloning, text-to-speech, and singing voice conversion technologies.
+- Experimented with video generation using Stable Diffusion.
+
+### Research Assistant (Part-time), AICenter, Asian Institute of Technology, Thailand
+**May 2022 - Sep 2023**
+
+#### Project: Trench Measurement System for Water Pipe Trench Quality Control
+- Analyzed 2D and 3D point cloud technologies to guide project direction and technology selection.
+- Assessed hardware specifications for optimal system integration.
+
+#### Development
+- Designed electronic circuit diagrams for high-precision measurement devices.
+- Enhanced 3D hardware design in SketchUp for increased precision and durability.
+- Developed real-time preprocessing methods for 3D point clouds.
+- Implemented Principal Component Analysis (PCA) for effective 3D-to-2D point cloud conversion.
+- Formulated a point cloud-based trench profile measurement algorithm, achieving accuracy within a 5% error margin.
+- Designed a user-friendly GUI for efficient measurement operation, data review, and uploading.
+- Standardized data formats for seamless integration with web servers, enhancing data management.
+- Contributed to the development of an AI-driven real-time trench profiling algorithm.
+
+#### Data Collection
+- Acquired 2D and 3D point cloud data using Intel RealSense cameras.
+- Gathered image data with mobile phones and CCTV for YOLO algorithm training.
+
+#### Deployment
+- Configured Ubuntu on Jetson Xavier NX for system operations.
+- Implemented a docker-based containerized approach for hosting the GUI and processing algorithms.
+
+#### Testing
+- Conducted field tests of the measurement algorithms at the University Campus and the MWA site in Bangkok, confirming real-world applicability and accuracy.
+
+#### Documenting
+- Produced detailed technical documentation and code comments to support future maintenance and scalability.
+- Created a user manual with clear installation instructions, facilitating end-user setup and deployment.
+
+### Engineering Specialist (Part-time), KiddeeLab, Thailand
+**Aug 2021 - June 2023**
+- Supervised a student to publish a paper titled "Reinforcement Learning application on Gamification" at the 8th International STEM Education Conference 2023.
+- Taught Machine Learning classes.
+- Developed a computer vision algorithm for servo motor's angle control by hand angle detection.
+- Developed the following courses:
+  - Machine Learning
+  - Web Development with Python Django
+  - Embedded Systems and IoT with MIT App Inventor, Blynk, ESP32, Google Sheets, and MicroPython
+  - Mobile App Development with MIT App Inventor
+
+### Engineering Specialist (Full-time), KiddeeLab, Thailand
+**Mar 2021 - July 2021**
+- Implemented an embedded system and mobile app to control a 3-wheel mobile robot.
+- Developed a voice-controlled IoT smart home automation system.
+- Designed 3D models of products.
+
 
 ---
 
