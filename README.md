@@ -124,7 +124,7 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 [![Python for Data Science, AI & Development](https://img.shields.io/badge/Python%20for%20Data%20Science,%20AI%20&%20Development-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/TA9Y2E7548B8)
 [![Tools for Data Science](https://img.shields.io/badge/Tools%20for%20Data%20Science-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/ZNP5EKREABP6)
 [![Introduction to Self-Driving Cars](https://img.shields.io/badge/Introduction%20to%20Self--Driving%20Cars-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/KLD6NNXM8YEA)
-[![Certificate of PLC & HMI Operation Training](https://img.shields.io/badge/Certificate%20of%20PLC%20&%20HMI%20Operation%20Training-EE4C2C?logo=omron)]([https://drive.google.com/file/d/1VX-frd8L3ckRPo_tv8PvsHjk58bwcV3z/view](https://drive.google.com/file/d/1VX-frd8L3ckRPo_tv8PvsHjk58bwcV3z/view?pli=1))
+[![Certificate of PLC & HMI Operation Training](https://img.shields.io/badge/Certificate%20of%20PLC%20&%20HMI%20Operation%20Training-EE4C2C?logo=omron)](https://drive.google.com/file/d/1VX-frd8L3ckRPo_tv8PvsHjk58bwcV3z/view)
 
 ---
 
