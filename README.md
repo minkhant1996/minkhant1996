@@ -114,9 +114,19 @@ Experienced AI and Computer Vision Specialist with a Master's degree in Data Sci
 
 ## Certificates
 
-- Health Data Science Foundation, Coursera, University of Illinois, Urbana-Champion
-- Data Science on Google Cloud, Google Cloud
-- Python for Data Science, AI & Development, Coursera, IBM
+[![Health Data Science Foundation](https://img.shields.io/badge/Health%20Data%20Science%20Foundation-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/9CCGMVP286H2)
+[![Data Science on Google Cloud](https://img.shields.io/badge/Data%20Science%20on%20Google%20Cloud-4285F4?logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/52ae6a38-bbe1-4f2f-a51c-544874238316/badges/3518721)
+[![Data Science on Google Cloud: Machine Learning](https://img.shields.io/badge/Data%20Science%20on%20Google%20Cloud:%20Machine%20Learning-4285F4?logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/52ae6a38-bbe1-4f2f-a51c-544874238316/badges/3548193)
+[![Machine Learning Modeling Pipelines in Production](https://img.shields.io/badge/Machine%20Learning%20Modeling%20Pipelines%20in%20Production-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/W2JYDJ9TMHY3)
+[![Problem Solving (Intermediate) Certificate](https://img.shields.io/badge/Problem%20Solving%20(Intermediate)%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/0ce8984194e8)
+[![Python (Basic) Certificate](https://img.shields.io/badge/Python%20(Basic)%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/ebd8991e4cca)
+[![Introduction to Machine Learning in Production](https://img.shields.io/badge/Introduction%20to%20Machine%20Learning%20in%20Production-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/GQW6KZ68VW6C)
+[![Python for Data Science, AI & Development](https://img.shields.io/badge/Python%20for%20Data%20Science,%20AI%20&%20Development-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/TA9Y2E7548B8)
+[![Tools for Data Science](https://img.shields.io/badge/Tools%20for%20Data%20Science-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/ZNP5EKREABP6)
+[![Introduction to Self-Driving Cars](https://img.shields.io/badge/Introduction%20to%20Self--Driving%20Cars-4CAF50?logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/KLD6NNXM8YEA)
+[![Certificate of PLC & HMI Operation Training](https://img.shields.io/badge/Certificate%20of%20PLC%20&%20HMI%20Operation%20Training-EE4C2C?logo=omron)]([https://drive.google.com/file/d/1VX-frd8L3ckRPo_tv8PvsHjk58bwcV3z/view](https://drive.google.com/file/d/1VX-frd8L3ckRPo_tv8PvsHjk58bwcV3z/view?pli=1))
+
+---
 
 
 
