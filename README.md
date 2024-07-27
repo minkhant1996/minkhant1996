@@ -4,10 +4,6 @@ Artificial Intelligence Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/min-khant-soe-4b6aa1124)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/minkhant1996)
-
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange?logo=google-chrome)](https://minkhant1996.github.io)
-
 ---
 
 ## Summary
