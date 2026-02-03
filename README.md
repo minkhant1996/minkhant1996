@@ -4,8 +4,6 @@ Artificial Intelligence Developer
 
 LinkedIn: <a href="https://www.linkedin.com/in/min-khant-soe-4b6aa1124" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
 
-Personal Website: https://minkhantsoe.soemindai.com
-
 ---
 
 ## <span style="color:#16a085">Summary</span>
