@@ -10,18 +10,18 @@
 
 ## About Me
 
-Senior AI Developer who ships production AI systems end-to-end — from architecture to deployment. I build agentic AI systems, multi-agent orchestration pipelines, and LLM-powered products that automate real business workflows. With a Master's in Data Science & AI and a Mechatronics Engineering foundation, I bring the full stack: system design, scalable infrastructure, cost optimization, and hands-on deep learning. Currently owning AI product development at The Brooker Group — building intelligent chatbots, content automation agents, and AI-powered consumer products serving real users.
+Senior AI Developer who ships production AI systems end-to-end -from architecture to deployment. I build agentic AI systems, multi-agent orchestration pipelines, and LLM-powered products that automate real business workflows. With a Master's in Data Science & AI and a Mechatronics Engineering foundation, I bring the full stack: system design, scalable infrastructure, cost optimization, and hands-on deep learning. Currently owning AI product development at The Brooker Group -building intelligent chatbots, content automation agents, and AI-powered consumer products serving real users.
 
 ---
 
 ## What I Do
 
-- **Agentic AI & Multi-Agent Systems** — Architect autonomous AI agents and multi-agent orchestration pipelines that handle complex workflows end-to-end with minimal human intervention
-- **LLM & Conversational AI** — Build production-grade chatbots and assistants powered by RAG, semantic search, prompt engineering, and fine-tuned models (LLaMA, Qwen)
-- **AI-Powered Automation** — Design content automation pipelines, internal AI assistants, and intelligent systems that cut operational costs and scale across teams
-- **Generative AI** — Ship products using Stable Diffusion, AI storytelling, face restoration, voice cloning, and text-to-speech
-- **Computer Vision** — Deliver object detection, segmentation, facial recognition, pose estimation, and 2D/3D point cloud processing solutions
-- **Full-Stack AI Engineering** — Own the full product lifecycle — system architecture, secure & scalable DB design, cloud infrastructure (AWS), and production optimization
+- **Agentic AI & Multi-Agent Systems** -Architect autonomous AI agents and multi-agent orchestration pipelines that handle complex workflows end-to-end with minimal human intervention
+- **LLM & Conversational AI** -Build production-grade chatbots and assistants powered by RAG, semantic search, prompt engineering, and fine-tuned models (LLaMA, Qwen)
+- **AI-Powered Automation** -Design content automation pipelines, internal AI assistants, and intelligent systems that cut operational costs and scale across teams
+- **Generative AI** -Ship products using Stable Diffusion, AI storytelling, face restoration, voice cloning, and text-to-speech
+- **Computer Vision** -Deliver object detection, segmentation, facial recognition, pose estimation, and 2D/3D point cloud processing solutions
+- **Full-Stack AI Engineering** -Own the full product lifecycle -system architecture, secure & scalable DB design, cloud infrastructure (AWS), and production optimization
 
 ---
 
@@ -79,54 +79,65 @@ Senior AI Developer who ships production AI systems end-to-end — from architec
 
 ## Experience
 
-### Senior AI Developer — The Brooker Group PCL, Thailand
-**Jul 2025 - Present**
+### <img src="https://img.shields.io/badge/Senior_AI_Developer-The_Brooker_Group_PCL-16a085?style=for-the-badge" alt="Senior AI Developer">
 
-Full product ownership — from research, system architecting, coding, shipping, maintenance, and optimization.
+> **Jul 2025 - Present** | Bangkok, Thailand
+>
+> **Full product ownership** -research, system architecting, coding, shipping, maintenance & optimization.
 
-**System Architecting** — Designing secure, scalable system architectures including database schema design, infrastructure planning, and end-to-end technical decision-making.
+| Project | Description |
+|:--------|:------------|
+| **System Architecting** | Designing secure, scalable architectures -DB schema design, infrastructure planning, end-to-end technical decisions |
+| **Internal AI Agents** | Built AI agent systems to streamline company workflows and automate repetitive tasks across teams |
+| **Robinhood AI Chatbot** | AI-powered chatbot with contextual understanding and automated response handling for customer interactions |
+| **Content Automation Agents** | AI agent pipelines automating content creation, processing, and distribution workflows |
+| **Cost & Latency Optimization** | Optimized infrastructure and AI pipelines to reduce operational costs and minimize latency in production |
 
-**Internal AI Agents & Assistants** — Developed internal AI agent systems to streamline company workflows and automate repetitive tasks across teams.
+---
 
-**Robinhood AI Chatbot** — Built an AI-powered chatbot for intelligent customer/user interactions with contextual understanding and automated response handling.
+### <img src="https://img.shields.io/badge/AI_Developer-The_Brooker_Group_PCL-2980b9?style=for-the-badge" alt="AI Developer">
 
-**Content Automation Agents** — Designed and implemented content automation pipelines using AI agents to automate content creation, processing, and distribution workflows.
+> **Jul 2023 - Dec 2024** | Bangkok, Thailand
 
-**Cost & Latency Optimization** — Optimized system infrastructure and AI pipelines to reduce operational costs and minimize latency across production services.
+| Project | Description |
+|:--------|:------------|
+| **BrookStoryBook** | AI-powered personalized digital storybook platform -custom narratives and illustrations tailored to users |
+| **BotStudio Platform** | Full-stack bot integration with LLM conversational AI, semantic search (LangChain), LINE messaging, AWS (EC2, S3, RDS) |
+| **Character Chatbots** | AI character chatbots with Stable Diffusion avatars, multimodal input (vision + text), NER, and intent detection |
+| **Brookreator** | QR code generation, auto portrait cropping, face restoration (CodeFormer), LINE chatbot for image/video generation |
+| **R&D** | Fine-tuned LLMs (LLaMA-2, Qwen), voice cloning, TTS, singing voice conversion, video generation with Stable Diffusion |
 
-### AI Developer — The Brooker Group PCL, Thailand
-**Jul 2023 - Dec 2024**
+---
 
-**BrookStoryBook** — Created an AI-powered personalized digital storybook platform, generating custom narratives and illustrations tailored to individual users.
+### <img src="https://img.shields.io/badge/Research_Assistant-AIT_AICenter-8e44ad?style=for-the-badge" alt="Research Assistant">
 
-**BotStudio Platform** — Built a full-stack bot integration platform with LLM-powered conversational AI, semantic search (LangChain + text embeddings), LINE messaging integration, and AWS infrastructure (EC2, S3, RDS, Route 53).
+> **May 2022 - Sep 2023** | Asian Institute of Technology, Thailand
 
-**Character Chatbots** — Created AI character chatbots with Stable Diffusion-generated avatars, multimodal input processing (vision + text), NER, intent detection, and contextual ad placement optimization.
+| Project | Description |
+|:--------|:------------|
+| **Trench Measurement System** | 3D point cloud processing, PCA-based 3D-to-2D conversion, custom profiling algorithms (< 5% error). Deployed on Jetson Xavier NX with Docker |
 
-**Brookreator Collaboration** — Developed QR code generation, auto portrait cropping, face restoration (CodeFormer), and a LINE chatbot for image/video generation.
+---
 
-**R&D** — Fine-tuned LLMs (LLaMA-2, Qwen), experimented with voice cloning, TTS, singing voice conversion, and video generation with Stable Diffusion.
+### <img src="https://img.shields.io/badge/Engineering_Specialist-KiddeeLab-e67e22?style=for-the-badge" alt="Engineering Specialist">
 
-### Research Assistant — AICenter, Asian Institute of Technology
-**May 2022 - Sep 2023**
+> **Mar 2021 - Jun 2023** | Thailand
 
-Built a trench measurement system for water pipe quality control using 3D point cloud processing, PCA-based 3D-to-2D conversion, and custom profiling algorithms (< 5% error margin). Deployed on Jetson Xavier NX with Docker.
-
-### Engineering Specialist — KiddeeLab, Thailand
-**Mar 2021 - Jun 2023**
-
-Supervised student research on Reinforcement Learning (published at iSTEM-Ed 2023). Taught ML courses and developed curricula for ML, web development, embedded systems/IoT, and mobile app development.
+| Project | Description |
+|:--------|:------------|
+| **Research Supervision** | Supervised student research on Reinforcement Learning -published at iSTEM-Ed 2023 |
+| **Education** | Developed and taught curricula for ML, web development (Django), embedded systems/IoT, and mobile app development |
 
 ---
 
 ## Education
 
-**MEng in Data Science & AI** — Asian Institute of Technology, Thailand (2021 - 2023)
+**MEng in Data Science & AI** -Asian Institute of Technology, Thailand (2021 - 2023)
 - GPA: 3.4/4.0
 - Thesis: *Vision-based Simulation and Real-world Lane Following and Obstacle Avoidance with PPO*
 
-**BEng in Mechatronics** — Assumption University of Thailand (2017 - 2020)
-- GPA: 3.79/4.0 — *Magna Cum Laude*
+**BEng in Mechatronics** -Assumption University of Thailand (2017 - 2020)
+- GPA: 3.79/4.0 -*Magna Cum Laude*
 
 ---
 
@@ -144,8 +155,8 @@ Supervised student research on Reinforcement Learning (published at iSTEM-Ed 202
 
 ## Languages
 
-- **English** — Fluent
-- **Myanmar** — Native
+- **English** -Fluent
+- **Myanmar** -Native
 
 ---
 
