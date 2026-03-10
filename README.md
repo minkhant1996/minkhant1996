@@ -85,12 +85,12 @@ Senior AI Developer who ships production AI systems end-to-end -from architectur
 >
 > **Full product ownership** -research, system architecting, coding, shipping, maintenance & optimization.
 
-| Project | Description |
+| Responsibility | Description |
 |:--------|:------------|
-| **System Architecting** | Designing secure, scalable architectures -DB schema design, infrastructure planning, end-to-end technical decisions |
+| **System Architecting** | Designing secure, scalable architectures including DB schema design, infrastructure planning, and end-to-end technical decisions |
 | **Internal AI Agents** | Built AI agent systems to streamline company workflows and automate repetitive tasks across teams |
-| **Robinhood AI Chatbot** | AI-powered chatbot with contextual understanding and automated response handling for customer interactions |
-| **Content Automation Agents** | AI agent pipelines automating content creation, processing, and distribution workflows |
+| **Robinhood AI Chatbot** | Built an AI-powered chatbot with contextual understanding and automated response handling for customer interactions |
+| **Content Automation Agents** | Designed AI agent pipelines automating content creation, processing, and distribution workflows |
 | **Cost & Latency Optimization** | Optimized infrastructure and AI pipelines to reduce operational costs and minimize latency in production |
 
 ---
@@ -99,9 +99,9 @@ Senior AI Developer who ships production AI systems end-to-end -from architectur
 
 > **Jul 2023 - Dec 2024** | Bangkok, Thailand
 
-| Project | Description |
+| Product | Description |
 |:--------|:------------|
-| **BrookStoryBook** | AI-powered personalized digital storybook platform -custom narratives and illustrations tailored to users |
+| **BrookStoryBook** | AI-powered personalized digital storybook platform generating custom narratives and illustrations tailored to users |
 | **BotStudio Platform** | Full-stack bot integration with LLM conversational AI, semantic search (LangChain), LINE messaging, AWS (EC2, S3, RDS) |
 | **Character Chatbots** | AI character chatbots with Stable Diffusion avatars, multimodal input (vision + text), NER, and intent detection |
 | **Brookreator** | QR code generation, auto portrait cropping, face restoration (CodeFormer), LINE chatbot for image/video generation |
@@ -113,7 +113,7 @@ Senior AI Developer who ships production AI systems end-to-end -from architectur
 
 > **May 2022 - Sep 2023** | Asian Institute of Technology, Thailand
 
-| Project | Description |
+| Focus | Description |
 |:--------|:------------|
 | **Trench Measurement System** | 3D point cloud processing, PCA-based 3D-to-2D conversion, custom profiling algorithms (< 5% error). Deployed on Jetson Xavier NX with Docker |
 
@@ -123,9 +123,9 @@ Senior AI Developer who ships production AI systems end-to-end -from architectur
 
 > **Mar 2021 - Jun 2023** | Thailand
 
-| Project | Description |
+| Focus | Description |
 |:--------|:------------|
-| **Research Supervision** | Supervised student research on Reinforcement Learning -published at iSTEM-Ed 2023 |
+| **Research Supervision** | Supervised student research on Reinforcement Learning, published at iSTEM-Ed 2023 |
 | **Education** | Developed and taught curricula for ML, web development (Django), embedded systems/IoT, and mobile app development |
 
 ---
