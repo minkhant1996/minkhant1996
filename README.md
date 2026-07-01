@@ -22,6 +22,9 @@ Senior AI Developer who ships production AI systems end-to-end -from architectur
 - **Generative AI** -Ship products using Stable Diffusion, AI storytelling, face restoration, voice cloning, and text-to-speech
 - **Computer Vision** -Deliver object detection, segmentation, facial recognition, pose estimation, and 2D/3D point cloud processing solutions
 - **Full-Stack AI Engineering** -Own the full product lifecycle -system architecture, secure & scalable DB design, cloud infrastructure (AWS), and production optimization
+- **HR-Portal and Career Portal** - Built for Brooker Group PCL Thailand (AI-Native Support)
+- **VC Monitoring** - VC and their portfolio companies' Social Activities Tracking, Quaterly Report Tracking, Data Room, 2nd Brain Sync, Weekly Reporting and Risk Alerts
+- **Investor Onboarding Pipeline and Fund Management** - AI Native Support for analyzing and reporting - Fund, Investor, Capital Call, Events, Onboarding, Data Room, 2nd Brain Sync, and Weekly Reporting
 
 ---
 
